@@ -38,9 +38,9 @@
     
 ## 확인사항
    
-WellV 프론트엔드 (https://github.com/PANG2OPPA/Wellv_Frontend)
-WellV 백엔드 (https://github.com/PANG2OPPA/Wellv_Backend)
-WellV 플라스크 (https://github.com/PANG2OPPA/Wellv_Flask)
+- WellV 프론트엔드 (https://github.com/PANG2OPPA/Wellv_Frontend)
+- WellV 백엔드 (https://github.com/PANG2OPPA/Wellv_Backend)
+- WellV 플라스크 (https://github.com/PANG2OPPA/Wellv_Flask)
 
  
 인사담당관님의 피드백을 환영합니다!
